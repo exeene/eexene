@@ -5,7 +5,7 @@ Hello there! I’m a passionate problem-solver who thrives at the intersection o
 
 ---
 
-## 🛠️ **Tech Stack**  
+## **Tech Stack**  
 *“Tools are extensions of imagination.”*  
 
 ### **Programming Languages**  
@@ -39,19 +39,19 @@ Hello there! I’m a passionate problem-solver who thrives at the intersection o
 ## 🚀 **Featured Projects**  
 Curated highlights from my code journey:
 
-### 1. **Predictive Maintenance AI** 🛠️  
+### 1. **Predictive Maintenance AI**  
 **Tech**: Python, TensorFlow, AWS SageMaker, IoT Sensors  
 - Designed an ML pipeline to predict equipment failures using real-time sensor data.  
 - Reduced downtime by **27%** for industrial clients.  
 - Deployed on AWS for scalable inference.  
 
-### 2. **Neural Art Studio** 🎨  
+### 2. **Neural Art Studio**
 **Tech**: PyTorch, StyleGAN, React, WebGL  
 - Built an interactive platform for AI-generated digital artwork.  
 - Trained custom GANs on 50k+ art pieces from public galleries.  
 - Enabled real-time style transfer for user-uploaded images.  
 
-### 3. **AutoDoc Generator** 🤖  
+### 3. **AutoDoc Generator**   
 **Tech**: LangChain, GPT-4, FastAPI, Docker  
 - Automated API documentation creation using NLP-driven code analysis.  
 - Slashed manual documentation efforts by **65%**.  
@@ -59,15 +59,15 @@ Curated highlights from my code journey:
 
 ---
 
-## 🌱 **Always Learning**  
+## **Always Learning**  
 Tech evolves fast, and so do I. Currently diving deeper into:  
-- **Graph Neural Networks (GNNs)** 🌐  
-- **Edge AI for IoT devices** ⚙️  
-- **Blockchain for data integrity** 🔗  
+- **Graph Neural Networks (GNNs)**   
+- **Edge AI for IoT devices**   
+- **Blockchain for data integrity** 
 
 ---
 
-## 🤝 **Let’s Collaborate!**  
+## **Let’s Collaborate!**  
 I’m always excited to:  
 - Explore impactful **collaborations** in tech.  
 - Mentor and empower **aspiring engineers**.  
